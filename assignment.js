@@ -1,3 +1,6 @@
+//https://github.com/smbmunna/assignment3
+
+
 //problem01
 function kilometerToMeter(kilo) {
     if (kilo < 0) {
@@ -91,7 +94,7 @@ function megaFriend(friends) {
 }
 
 
-var friends = ['Munne', 'mahmudboksho', 'xavi', 'Sheikh', 'jono', 'Mahmud boksho munna'];
+//var friends = ['Munne', 'mahmudboksho', 'xavi', 'Sheikh', 'jono', 'Mahmud boksho munna'];
 //var friends=[];
- var result = megaFriend(friends);
- console.log(result);
+ //var result = megaFriend(friends);
+ //console.log(result);
